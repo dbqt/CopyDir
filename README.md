@@ -1,6 +1,8 @@
 # CopyDir
 Copy quickly a folder into another, useful for doing repeated backup of a thumb drive.
 
+	https://github.com/dbqt/CopyDir/
+
 MS-DOS Script by David Binh Quang Tran
 Copyleft 2015
 
